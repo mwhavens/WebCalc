@@ -14,9 +14,6 @@ Edit/Run WebCalcTesting file.
 JRE 1.5 Compliant
 Java 6+
 
-
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Command Line Usage
 
 From Command Line:
