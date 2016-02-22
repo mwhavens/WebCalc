@@ -4,26 +4,37 @@ A Server/Client Web based command line calculator.
 
 ## Getting Started
 
-Create a Java Project. 
+Create a Java Project.
+
 Import the 3 source WebCalc files.
+
 Import the 2 Expression Packages.
+
 Edit/Run WebCalcTesting file.
+
 
 ### Prerequisities
 
 JRE 1.5 Compliant
+
 Java 6+
 
 ## Command Line Usage
 
 From Command Line:
-  Expression string -> Returns Answer String
+
+    Expression string -> Returns Answer String
+  
   
 All numbers are converted to Double type. Returned answer is a Double.
+
 Variables MUST start with a Letter and contain only digits and characters, no special characters.
+
 Variables are evaluated as 0.0 if they are not instantiated first.
 
+
 Negative Exponenets without enclosing ()'s have an issue. Example '5^-.333'.
+
 
 ```
 10^2+5<ret>
